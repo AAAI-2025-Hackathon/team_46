@@ -17,7 +17,14 @@
 - **B.Tech in Computer Science and Engineering, 2nd Year**  
 
 ### Project Idea:
-Will update it soon
+This project comes under AI for HealthCare Theme. While various medical image modalities like MRI, CT, XRay are the main target of the research in current going medical image trend, there are various modalities like
+UOT, EIT, MSOT, Radiomics and Pediatrics. In this project, we target to solve one of the most critical problem, **Pediatrics**. We recognize that two significantly concerning issues often encountered by infants are Bone Fractures and Heart Diseases. While it is acknowledged that there are numerous challenges, for the purposes of this research associated with the hackathon, we will confine our focus to these two topics. 
 
+#### Track 1
+**1) Multi-Task Left Ventricular Segmentation and Ejection Fraction determination from Pediatric Echocardiograms**
+
+
+
+**2) Efficient Bone Fracture Detection in Infacts using Modified YOLOv11 Model**
 
 -----

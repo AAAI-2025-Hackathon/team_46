@@ -32,8 +32,9 @@ UOT, EIT, MSOT, Radiomics and Pediatrics. In this project, we target to solve on
 
 However, we propose a **multitask model** that processes echocardiogram videos and simultaneously performs both left ventricle **segmentation** and ejection fraction **determination** based on systolic and diastolic volumes. This is the core idea of Task 1.
 
+----
 
-
+## Track 2
 ### **2) Efficient Bone Fracture Detection in Infacts using Modified YOLOv11 Model**
 
 -----

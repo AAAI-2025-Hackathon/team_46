@@ -1,3 +1,14 @@
+# Check-In
+
+- Title of your submission: **Efficient Models for Infacts Cardiac Health and Bone Fracture Detection**
+- Team Members: [Nikhileswara Rao Sulake](mailto:nikhil01446@gmail.com), [Sai Manikanta Eswar Machara](mailto:macharasaimanikantaeswar@gmail.com)
+- [ ] All team members agree to abide by the [Hackathon Rules](https://aaai.org/conference/aaai/aaai-25/hackathon/)
+- [ ] This AAAI 2025 hackathon entry was created by the team during the period of the hackathon, February 17 – February 24, 2025
+- [ ] The entry includes a 2-minute maximum length demo video here: [Link](https://your-link.com)
+- [ ] The entry clearly identifies the selected theme in the README and the video.
+
+
+
 ## Team 46
 ### Theme : AI for Healthcare
 

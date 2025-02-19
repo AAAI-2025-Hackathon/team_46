@@ -5,4 +5,3 @@ from get_mean_and_std import get_mean_and_std
 from latexify import latexify
 from loadvideo import loadvideo
 from savevideo import savevideo
-from loadvideo import lo
